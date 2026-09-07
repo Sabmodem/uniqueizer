@@ -1,0 +1,6 @@
+{
+  "python.defaultInterpreterPath": "/.venv/bin/python",
+  "python.languageServer": "Pylance",
+  "nix.enableLanguageServer": true,
+  "nix.serverPath": "nixd"
+}
